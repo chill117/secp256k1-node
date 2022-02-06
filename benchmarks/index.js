@@ -3,7 +3,6 @@ const ProgressBar = require('progress')
 
 const util = require('../test/util')
 const implementations = {
-  bindings: require('../bindings'),
   elliptic: require('../elliptic'),
   ecdsa: require('./ecdsa')
 }

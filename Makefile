@@ -60,8 +60,6 @@ package_include_dirs = \
 	src
 package_include_files = \
 	API.md \
-	binding.gyp \
-	bindings.js \
 	elliptic.js \
 	index.js \
 	LICENSE \
